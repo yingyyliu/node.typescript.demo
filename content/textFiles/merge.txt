@@ -1,0 +1,7 @@
+Result of merging text files:
+= Header 1
+== This is a test
+
+
+This is the first file!!
+🚀 🐒 🎁 鳥 森林
