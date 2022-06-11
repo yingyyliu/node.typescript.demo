@@ -1,4 +1,10 @@
 {
+  "name": "node.demo",
+  "version": "1.0.0",
+  "description": "This is used to test typescipt code with node.",
+  "keywords": ["node", "typescript"],
+  "author": "Yong Liu",
+
   "devDependencies": {
     "@types/jest": "^28.1.1",
     "@types/node": "^17.0.41",
