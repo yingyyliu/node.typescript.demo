@@ -5,6 +5,8 @@
     /* Language and Environment */
     "target": "es2016",
     "lib": ["es2016"],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
 
     /* Modules */
     "module": "commonjs",
@@ -23,6 +25,7 @@
     "downlevelIteration": true,
     "newLine": "crlf",
     "preserveConstEnums": true,
+    "sourceMap": true,
 
     /* Interop Constraints */
     "esModuleInterop": true,
